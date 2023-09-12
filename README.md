@@ -3,16 +3,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8yY2RuZWk3NnI1MzJzbXZhd2I3MjB2ZWNwNXppNnJpcmh6amZvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Creating a Chrome Extension to help focus](https://github.com/adam-badar/chrome-extension-v3)
+- 🔭 I’m currently working on [Creating a Chrome Extension to help you stay focused](https://github.com/adam-badar/chrome-extension-v3)
 
 - 🌱 I’m currently learning **Tailwind CSS, Engineering Large Software Systems, DBMS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adam-badar](https://github.com/adam-badar)
+- 👨‍💻 All of my projects are available [here](https://github.com/adam-badar)
 
 - 📫 How to reach me **adam.badar@mail.utoronto.ca**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/adam-badar/</h3>
-<p align="left">
+- 🔍 Seeking Winter & Summer 2024 Internships. Check out my [Resume](CS_Resume_2023.pdf)
+
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/adam-badar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-badar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adam-badar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adam-badar" height="30" width="40" /></a>
 </p>
