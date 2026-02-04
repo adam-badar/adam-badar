@@ -15,30 +15,15 @@
 | [**FillPDFwithAI**](https://fillpdfwithai.com) | AI-powered PDF form filling |
 | [**Maple Bit Services**](https://maplebitservices.com) | Payment solutions & merchant services |
 
-### Recent Work
+### Currently Tinkering With
 
-- Building AI agents and automation workflows
-- Shipping SaaS products with Next.js, TypeScript, and Supabase
-
+- AI agents that actually do useful things
+- Automating everything that moves
+- Shipping fast with Next.js + Supabase
 
 ### Tech Stack
 
-**Languages:** TypeScript, Python, Java, C
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express, Flask, Supabase, PostgreSQL
-**Tools:** Docker, Git, Claude Code, LangChain
-
----
-
-<details>
-<summary>GitHub Stats</summary>
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adam-badar&show_icons=true&locale=en&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-badar&show_icons=true&locale=en&theme=dark)
-
-</details>
+`TypeScript` `Python` `React` `Next.js` `Node.js` `Supabase` `PostgreSQL` `LangChain`
 
 ---
 
