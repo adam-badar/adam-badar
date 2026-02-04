@@ -14,6 +14,7 @@
 | [**Lifomation**](https://lifomation.vip) | Secure document management platform |
 | [**FillPDFwithAI**](https://fillpdfwithai.com) | AI-powered PDF form filling |
 | [**Maple Bit Services**](https://maplebitservices.com) | Payment solutions & merchant services |
+| [**Aroma AI**](https://aromavoice.com) | Order-taking for restaurants |
 
 ### Currently Tinkering With
 
