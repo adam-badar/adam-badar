@@ -1,35 +1,37 @@
-# Hey, I'm Adam Badar
+# Adam Badar
 
-**Software Engineering Specialist @ University of Toronto** (Final Semester)
+Building products solo with AI. Previously built Maple Bit ($150K+ revenue, 100+ SMBs). Now shipping Bavlio, BaviMail, and SapienEx.
 
-> *Why spend 15 minutes doing the same task manually when you can spend 2 hours automating it?* ;)
-
----
-
-### What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| [**Bavlio**](https://bavlio.com) | AI-powered sales research tool |
-| [**Lifomation**](https://lifomation.vip) | Secure document management platform |
-| [**FillPDFwithAI**](https://fillpdfwithai.com) | AI-powered PDF form filling |
-| [**Maple Bit Services**](https://maplebitservices.com) | Payment solutions & merchant services |
-| [**Aroma AI**](https://aromavoice.com) | Order-taking for restaurants |
-
-### Currently Tinkering With
-
-- AI agents that actually do useful things
-- Automating everything that moves
-- Shipping fast with Next.js + Supabase
-
-### Tech Stack
-
-`TypeScript` `Python` `React` `Next.js` `Node.js` `Supabase` `PostgreSQL` `LangChain`
+Based in Toronto. [adambadar.com](https://adambadar.com)
 
 ---
 
-### Let's Connect
+### Ventures
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-badar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/adam_badar_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adam.badar@mail.utoronto.ca)
+**[Bavlio](https://bavlio.com)** - AI sales outreach platform. Deep research engine for hyper-personalized cold email.
+
+**[BaviMail](https://bavimail.com)** - Cold email infrastructure. Domain reputation, SPF/DKIM/DMARC, deliverability monitoring.
+
+**[SapienEx](https://sapienex.com)** - AI workflow automation for businesses. Custom AI systems that replace manual operations.
+
+---
+
+### Open Source
+
+| Project | What it does |
+|---|---|
+| [video-scorer](https://github.com/adam-badar/video-scorer) | Pre-publish video optimization. FFmpeg analyzers + Deepgram transcription + weighted scorecard. |
+| [bavimail-newsletter](https://github.com/adam-badar/bavimail-newsletter) | Self-hosted newsletter on Listmonk + AWS SES. Zero vendor lock-in. |
+| [compound-engineering-system](https://github.com/adam-badar/compound-engineering-system) | AI coding methodology. Plan, review, ship, compound. Every fix makes the system smarter. |
+| [karaoke-system](https://github.com/adam-badar/karaoke-system) | Open source karaoke app. Vocal separation + real-time lyrics. |
+| [claude-code-operating-system](https://github.com/adam-badar/claude-code-operating-system) | Complete AI coding assistant setup - MCP servers, subagents, workflows. |
+
+---
+
+### Stack
+
+`Python` `TypeScript` `React` `Next.js` `FastAPI` `PostgreSQL` `Azure` `AWS` `Claude Code` `Codex`
+
+---
+
+[Newsletter](https://newsletter.adambadar.com) / [LinkedIn](https://www.linkedin.com/in/adam-badar/) / [X](https://x.com/adam_badar_) / [TikTok](https://www.tiktok.com/@ah_dumb) / [YouTube](https://www.youtube.com/@adam-badar)
