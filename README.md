@@ -22,9 +22,9 @@ Based in Toronto. [adambadar.com](https://adambadar.com)
 |---|---|
 | [video-scorer](https://github.com/adam-badar/video-scorer) | Pre-publish video optimization. FFmpeg analyzers + Deepgram transcription + weighted scorecard. |
 | [bavimail-newsletter](https://github.com/adam-badar/bavimail-newsletter) | Self-hosted newsletter on Listmonk + AWS SES. Zero vendor lock-in. |
-| [compound-engineering-system](https://github.com/adam-badar/compound-engineering-system) | AI coding methodology. Plan, review, ship, compound. Every fix makes the system smarter. |
+| [compound-engineering-system](https://github.com/adam-badar/compound-engineering-system) | My development methodology. How I plan, review, and ship code with AI agents. |
 | [karaoke-system](https://github.com/adam-badar/karaoke-system) | Open source karaoke app. Vocal separation + real-time lyrics. |
-| [claude-code-operating-system](https://github.com/adam-badar/claude-code-operating-system) | Complete AI coding assistant setup - MCP servers, subagents, workflows. |
+| [claude-code-operating-system](https://github.com/adam-badar/claude-code-operating-system) | My Claude Code setup - MCP servers, subagents, custom commands, workflows. |
 
 ---
 
