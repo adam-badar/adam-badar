@@ -1,6 +1,6 @@
 # Adam Badar
 
-Building products solo with AI. Previously built Maple Bit ($150K+ revenue, 100+ SMBs). Now shipping Bavlio, BaviMail, and SapienEx.
+Building products. Now shipping Bavlio, BaviMail, and SapienEx.
 
 Based in Toronto. [adambadar.com](https://adambadar.com)
 
